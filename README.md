@@ -1,4 +1,4 @@
-<h1 align=center>Hi there 👋, I'm Từ Thị Huệ - Smililyy </h1> 
+<h1 align=center>Hi there 👋, I'm Tu Thi Hue </h1> 
 
 <!--
 **Smililyy/Smililyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
